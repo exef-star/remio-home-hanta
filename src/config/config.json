@@ -192,10 +192,10 @@
     "column": 4
   },
   "footer": {
-    "text": "© 2020 - 2025 By KASUIE",
-    "url": "https://kasuie.cc",
-    "ICP": "ICP备xxxxxxxx号",
-    "MPSICP": "京公网安备xxxxxxxx号",
+    "text": "© 2024 - 2025 By Hanta",
+    "url": "https://hanta2011.top",
+    "ICP": " ",
+    "MPSICP": " ",
     "direction": "col-reverse",
     "isExternal": true
   },
@@ -204,5 +204,5 @@
     "js": [],
     "bodyHtml": ""
   },
-  "domain": "https://remio-home.vercel.app"
+  "domain": "https://hanta2011.top"
 }
